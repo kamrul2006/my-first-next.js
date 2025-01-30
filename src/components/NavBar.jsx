@@ -31,11 +31,13 @@ const Navbar = () => {
                             Home
                         </Link>
                     </li>
+
                     <li>
                         <Link href="/About" className="block py-2 px-4 hover:text-gray-400">
                             About
                         </Link>
                     </li>
+
                     <li>
                         <Link href="/Services" className="block py-2 px-4 hover:text-gray-400">
                             Services
