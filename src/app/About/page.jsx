@@ -17,7 +17,7 @@ export default function AboutPage() {
 
           <a
             href="/About/FullAbout"
-            className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition"
+            className="px-6 py-3 bg-blue-500 hover:bg-blue-600 ml-4 text-white rounded-lg transition"
           >
             Read the full document
           </a>
