@@ -39,6 +39,12 @@ const Navbar = () => {
                     </li>
 
                     <li>
+                        <Link href="/Meals" className="block py-2 px-4 hover:text-gray-400">
+                            All Meals
+                        </Link>
+                    </li>
+
+                    <li>
                         <Link href="/About" className="block py-2 px-4 hover:text-gray-400">
                             About
                         </Link>
